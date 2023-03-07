@@ -1,0 +1,474 @@
+body{
+    background-color: rgb(57, 2, 97);
+    color: white;
+    text-align: left;
+    
+}
+
+.logo{
+    color: white;
+    text-align:left;
+}
+
+.web{
+    color: white;
+    flex-direction: row;
+    font-size: 20px;
+}
+
+.Btn1{
+    background-color: #008CBA; /* Blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.img1 {
+    padding: 5px;
+    width: 600px;
+    height: 500px;
+    margin-left: 25px;
+    
+}
+
+.row1{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.row2{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.img2{
+    padding: 5px;
+    width: 600px;
+    height: 500px;
+    margin-right: 25px;
+}
+
+.card1{
+    width: 600px;
+    height: 300px;
+    background-color: aqua;
+    padding: 5px;
+    margin-left: 350px;
+    align-items: flex-end; 
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.icon{
+    font-size: 25px;
+    color: black;
+    
+}
+
+.card2{
+    width: 600px;
+    height: 300px;
+    background-color: blueviolet;
+    padding: 5px;
+    margin-left: 350px;
+    align-items: flex-end; 
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.card3{
+    width: 600px;
+    height: 300px;
+    background-color: blue;
+    padding: 5px;
+    margin-left: 350px;
+    align-items: flex-end; 
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.card4{
+    width: 600px;
+    height: 300px;
+    background-color: darkorchid;
+    padding: 5px;
+    margin-left: 350px;
+    align-items: flex-end; 
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.row3{
+    background-color: indigo;
+    font-size: 50px;
+    text-align: left;
+    color: white;
+    margin-top: 15px;
+}
+
+.img3{
+    padding: 5px;
+    width: 600px;
+    height: 500px;
+    margin-left: 50px;  
+}
+
+.web1{
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    margin-top: 10px; 
+}
+
+.web2{
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px; 
+}
+
+.row4{
+    background-color: white;
+    font-size: 25px;
+    text-align: center;
+    color: aqua;
+    margin-top: 20px; 
+}
+
+.web3{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px; 
+}
+
+.Btn2{
+    background-color: #008CBA; /* Blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.img4{
+    padding: 5px;
+    width: 600px;
+    height: 500px;
+    text-align: center;
+}
+.row5{
+    background-color: indigo;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    margin-top: 20px; 
+}
+
+.img5{
+    padding: 5px;
+    width: 600px;
+    height: 500px;
+    text-align: center;
+}
+
+.card5{
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 350px;
+    align-items: center; 
+    justify-content: center;
+    font-size: 25px;
+    margin-top: -10px;
+    text-align: center;
+    color: black;
+}
+
+.card6{
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 350px;
+    align-items: center; 
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: center;
+    color: black; 
+}
+
+.card7{
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 350px;
+    align-items: center; 
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+}
+
+.card8{
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 350px;
+    align-items: center; 
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: center;
+    color: black;  
+}
+
+.row6{
+    background-color: white;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    margin-top: 20px;  
+}
+
+.img6{
+    padding: 5px;
+    width: 600px;
+    height: 500px;
+    text-align: center;   
+}
+
+.web4{
+    color: aqua;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 50px;  
+}
+
+.web5{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 50px  
+}
+
+.Btn3{
+    background-color: #008CBA; /* Blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer; 
+}
+
+.row7{
+    background-color: indigo;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    margin-top: 20px;  
+}
+
+.img7{
+    padding: 5px;
+    width: 300px;
+    height: 400px;
+    text-align: center;  
+}
+
+.card9{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 350px;
+    align-items: center; 
+    justify-content: center;
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+    color: black; 
+}
+
+.Btn4{
+    background-color: #008CBA; /* Blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;  
+}
+
+.row8{
+    background-color: white;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    margin-top: 20px; 
+}
+
+.web6{
+    color: gray;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 50px 
+}
+
+.web7{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 50px
+}
+
+.Btn5{
+    background-color: #008CBA; /* Blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.row9{
+    background-color: indigo;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin-top: 50px;  
+}
+
+.card10{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 500px;
+    align-items: center; 
+    justify-content: center;
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+    color: gray;
+}
+
+.card11{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 500px;
+    align-items: center; 
+    justify-content: center;
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+    color: gray;
+}
+
+.card12{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 500px;
+    align-items: center; 
+    justify-content: center;
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+    color: gray;  
+}
+
+.row10{
+    background-color: gray;
+    font-size: 15px;
+    text-align: center;
+    color: white;  
+}
+
+.color{
+    color: aqua;
+    font-size: 20px;
+}
+
+@media screen and (max-width:700px){
+    /*ecran normal*/
+    .body{
+        width: 100%;
+    }
+
+    .img1 {
+        width: 100%;
+   }
+
+   .img2{
+    width: 100%;
+}
+
+.row3{
+    width: 100%;
+}
+
+.img3{
+    width: 100%; 
+}
+.img4{
+    width: 100%;
+}
+.row5{
+   width: 100%;
+}
+
+.img5{
+    width: 100%;
+}
+.row6{
+   width: 100%; 
+}
+
+.img6{
+    width: 100%;   
+}
+
+
+}
